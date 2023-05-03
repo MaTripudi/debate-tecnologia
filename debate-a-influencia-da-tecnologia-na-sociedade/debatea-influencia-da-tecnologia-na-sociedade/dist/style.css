@@ -1,0 +1,39 @@
+mark {
+  background: orange;
+}
+
+mark.current {
+  background: yellow;
+}
+
+.header {
+  padding: 10px;
+  width: 100%;
+  background: #add8e6;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.content {
+  margin-top: 50px;
+}
+/*Fixar barra de pesquisa*/
+.header {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 100;
+  background: #add8e6;
+}
+#accordionExample {
+  margin: 0 20px;
+}
+.titulo {
+        text-align: center;
+      }
+#accordion{
+padding-left: 20px; 
+padding-right: 20px
+}
